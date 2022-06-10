@@ -1,0 +1,25 @@
+body {color: white;
+background-color: silver;
+padding: 20px;
+font-family: Arial, Helvetica, sans-serif;}
+p{padding: 5px;
+margin: 0px;}
+h1{color: aqua;background-color: blueviolet;
+padding: inherit;}
+.one{background-color: rgb(243, 7, 125);}
+.two{background-color:  rgb(249, 43, 146);}
+.three{background-color:  rgb(245, 93, 169);}
+.four{background-color:rgb(253, 138, 196) ;}
+.five{background-color: rgb(252, 178, 215) ;}
+.six{background-color: rgb(250, 191, 221) ;
+
+}
+.seven{background-color:rgb(78, 209, 115)  ;}
+.eight{background-color: rgb(175, 216, 241);}
+.nine{background-color:rgb(152, 208, 243) ;}
+.ten{background-color:rgb(133, 203, 246) ;}
+.eleven{background-color:rgb(114, 196, 247) ;}
+.a{background-color:rgb(93, 187, 245) ;}
+.b{background-color:rgb(74, 180, 246) ;}
+.c{background-color: rgb(46, 168, 243);}
+.d{background-color: rgb(2, 157, 254);}
